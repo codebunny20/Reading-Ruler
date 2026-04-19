@@ -1,10 +1,3 @@
-Absolutely — here’s a **clean, professional, portfolio‑ready `README.md`** for your *Reading Ruler* extension.  
-It’s written in a way that shows off your skills, communicates clarity, and fits the minimalist, accessibility‑focused vibe of your work.
-
-If you want, I can tailor it for **Chrome Web Store**, **GitHub**, or **dev.to** formats too.
-
----
-
 # 📘 Reading Ruler — Minimal, Accessible On‑Page Reading Aid
 
 **Reading Ruler** is a lightweight, keyboard‑driven accessibility tool that helps users maintain focus while reading long pages of text.  
